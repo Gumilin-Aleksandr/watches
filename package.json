@@ -1,11 +1,11 @@
 {
-  "name": "command-project",
+  "name": "command-project-watches",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/command-project/",
+    "build": "vite build --base=/command-project-watches/",
     "preview": "vite preview"
   },
   "devDependencies": {
